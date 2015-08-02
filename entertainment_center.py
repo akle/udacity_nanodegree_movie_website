@@ -3,18 +3,18 @@ import fresh_tomatoes
 
 # We create a couple of movies
 toy_story = media.Movie(
-	"Toy Story",
-	"Toys that behave like people", 
-	"https://www.movieposter.com/posters/archive/main/98/MPW-49351",
-	"www.youtube.com/watch?v=3jC6McxjCnE",
-	"John Lasseter")
+    "Toy Story",
+    "Toys that behave like people",
+    "https://www.movieposter.com/posters/archive/main/98/MPW-49351",
+    "www.youtube.com/watch?v=3jC6McxjCnE",
+    "John Lasseter")
 
 avatar = media.Movie(
-	"Avatar",
-	"Blue people with guns.",
-	"http://www.impawards.com/2009/posters/avatar_ver5.jpg",
-	"https://www.youtube.com/watch?v=cX0R3mXaod8",
-	"James Cameron")
+    "Avatar",
+    "Blue people with guns.",
+    "http://www.impawards.com/2009/posters/avatar_ver5.jpg",
+    "https://www.youtube.com/watch?v=cX0R3mXaod8",
+    "James Cameron")
 
 # Store the movies in an array.
 movies = [toy_story, avatar]

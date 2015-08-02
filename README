@@ -1,4 +1,8 @@
-On the console
-Run the following command
-python entertainment_center.py
+# Movie Website Project
+
+Shows a list of movies with posters and trailers.
+
+## Running
+On the console, run the following command:
+    python entertainment_center.py
 A browser window should open with the movie website.
